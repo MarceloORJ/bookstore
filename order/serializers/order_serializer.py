@@ -15,4 +15,4 @@ class OrderSerializer(serializers.ModelSerializer):
         model = Product
         fields = ['product', 'total']
         
-        ##teste
+        ##teste serializers
